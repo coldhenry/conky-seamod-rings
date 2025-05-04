@@ -1,19 +1,7 @@
 Conky Seamod theme
 ====================
 
-Seamod theme was built by SeaJey. I modified the original theme for conky 1.10 configuration. 
-
-New Features
---------------
-
-* Disk Read/Write 
-* Lan/Ext IP's
-* City of your IP (useful for VPN) 
-
-Screenshot
-----------------
-
-![alt text](screenshot.png)
+Seamod theme was built by SeaJey. I modified the original theme to apply to Ubuntu 24.04
 
 
 Original Theme
